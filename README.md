@@ -51,10 +51,16 @@ This means the app always works — even without internet.
 • Clean modular structure and reusable components
 
 📱 Screenshots
- <img width="1530" height="3036" alt="IMG_7889-portrait" src="https://github.com/user-attachments/assets/16b729e8-c9f2-4dab-bd9d-117d091400fb" />
-<img width="1530" height="3036" alt="IMG_7883-portrait" src="https://github.com/user-attachments/assets/f1074919-a369-41da-817c-18d95188018d" />
-<img width="1530" height="3036" alt="IMG_7886 2-portrait" src="https://github.com/user-attachments/assets/b7cf0a55-91e8-4b99-890d-98020e219aed" />
-<img width="1530" height="3036" alt="IMG_7887-portrait" src="https://github.com/user-attachments/assets/7da70edb-9579-4c11-847e-9d50240dfc03" />
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/16b729e8-c9f2-4dab-bd9d-117d091400fb" width="300" />
+  <img src="https://github.com/user-attachments/assets/f1074919-a369-41da-817c-18d95188018d" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b7f0a55-91e8-4b99-890d-98020e219aed" width="300" />
+  <img src="https://github.com/user-attachments/assets/7da70edb-9579-4c11-847e-9d50240dfc03" width="300" />
+</p>
+
 
 🚀 Future Improvements
 These are future ideas:
