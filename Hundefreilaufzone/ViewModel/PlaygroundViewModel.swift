@@ -12,7 +12,7 @@ import Observation
 @Observable
 @MainActor
 class PlaygroundViewModel {
-    
+
     var playgrounds: [DogPlayground] = []
     var cameraPosition: MapCameraPosition = .automatic
     var selectedPlayground: DogPlayground? = nil
@@ -57,7 +57,7 @@ class PlaygroundViewModel {
         showFencedPlaygrounds = defaults.bool(forKey: "showFencedPlaygrounds")
         isOnboarded = defaults.bool(forKey: "isOnboarded")
         if defaults.object(forKey: "showSplash") == nil {
-            showSplash = true     // First launch → show splash
+            showSplash = true     
         } else {
             showSplash = defaults.bool(forKey: "showSplash")
         }

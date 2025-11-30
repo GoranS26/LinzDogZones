@@ -26,7 +26,7 @@ struct TermsOfUseView: View {
                         .font(.headline)
 
                     Text("""
-                    By downloading or using Hundefreilaufzone (“the App”), you agree to be bound by these Terms of Use. If you do not agree to these terms, please discontinue use of the App.
+                    By downloading or using Hundefreilaufzone (“Linz Dog Zones”), you agree to be bound by these Terms of Use. If you do not agree to these terms, please discontinue use of the App.
                     """)
                 }
 
@@ -35,7 +35,7 @@ struct TermsOfUseView: View {
                         .font(.headline)
 
                     Text("""
-                    Hundefreilaufzone is an informational app designed to help users discover dog playgrounds, view details, and browse a map interface. The App is for informational and convenience purposes only.
+                    Hundefreilaufzone (“Linz Dog Zones”) is an informational app designed to help users discover dog playgrounds, view details, and browse a map interface. The App is for informational and convenience purposes only.
                     """)
                 }
 

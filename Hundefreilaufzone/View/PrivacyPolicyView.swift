@@ -26,7 +26,7 @@ struct PrivacyPolicyView: View {
                         .font(.headline)
 
                     Text("""
-                    Hundefreilaufzone (“the App”) is developed by Goran Saric. This Privacy Policy explains how the App operates, what data it handles, and your rights as a user.
+                    Hundefreilaufzone (“Linz Dog Zones”) is developed by Goran Saric. This Privacy Policy explains how the App operates, what data it handles, and your rights as a user.
                     """)
                 }
 

@@ -13,12 +13,13 @@ struct SplashScreenView: View {
 
     var body: some View {
         ZStack {
-            Image("background")
+            Image("backgroundSplash")
                 .resizable()
                 .scaledToFill()
                 .ignoresSafeArea()
-
             VStack {
+                
+                Spacer()
                 Image("introText")
                     .resizable()
                     .scaledToFit()
@@ -35,16 +36,14 @@ struct SplashScreenView: View {
                     withAnimation {
                         showSplash = false
                     }
-                   
                 }
                 .foregroundStyle(.white)
                 .bold()
                 .frame(width: 250, height: 50)
                 .glassEffect(.clear)
                 .clipShape(Capsule())
-                .offset(y: -95)
             }
-            .padding(.bottom)
+            .padding(.bottom, 25)
         }
     }
 }

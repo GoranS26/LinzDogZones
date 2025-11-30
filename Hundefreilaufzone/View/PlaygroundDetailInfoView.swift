@@ -14,6 +14,7 @@ struct PlaygroundDetailInfoView: View {
     @State  var infoTitle: String
     @State  var color: Color
     @State  var value: String
+ 
     
     var body: some View {
         HStack {
@@ -31,5 +32,5 @@ struct PlaygroundDetailInfoView: View {
 }
 
 #Preview {
-    PlaygroundDetailInfoView(infoIcon: "xmark.circle", iconSize: 20.0, infoTitle: "howdy", color: .brown, value: "not much")
+    PlaygroundDetailInfoView(infoIcon: "xmark.circle", iconSize: 20, infoTitle: "Fenced", color: .brown, value: "Yes")
 }
