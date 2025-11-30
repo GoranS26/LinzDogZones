@@ -57,9 +57,10 @@ This means the app always works — even without internet.
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b7f0a55-91e8-4b99-890d-98020e219aed" width="300" />
+  <img src="https://github.com/user-attachments/assets/03286257-1767-4111-af33-de93906eb331" width="300" />
   <img src="https://github.com/user-attachments/assets/7da70edb-9579-4c11-847e-9d50240dfc03" width="300" />
 </p>
+
 
 
 🚀 Future Improvements
