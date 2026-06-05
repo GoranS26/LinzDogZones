@@ -648,6 +648,78 @@
   ],
   "description": "The Steinbauerpark dog park is located in the 12th district of Meidling. It is free of charge and open 24/7. The park is fenced and equipped with a water fountain for dogs.Cafés and public transport are located directly adjacent to the park (less than 100 m). Pet supply stores, restrooms, drinking fountains, and trash cans are within easy reach (1 km)."
   },
+  {
+  "id": "vienna_einsiedlerplatz",
+  "name": "Einsiedlerplatz",
+  "city": "Vienna",
+  "area": "vienna",
+  "latitude": 48.186285146694786,
+  "longitude": 16.35054708634566,
+  "official": true,
+  "fenced": true,
+  "water": true,
+  "size": "207m²",
+  "surface": "Mixed",
+  "lighting": false,
+  "poopBags": true,
+  "parking": "Street parking",
+  "imageUrl": [
+    "https://plus.unsplash.com/premium_photo-1700403545715-858d198bd45b?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1718382488502-88c56c7b38ae?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1665454957722-4e295940aec9?q=80&w=2351&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1599814148236-c66557e25431?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1730264582481-05ff8cc73bc1?q=80&w=2374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "description": "The Einsiedlerpark dog park is located in the 5th district, Margareten. It is free to enter and open 24/7. The park is fenced and equipped with a water fountain for dogs.Drinking fountains and trash cans are located directly adjacent to the park (within 100 m). Cafés, veterinarians, restrooms, and public transportation are within easy reach (within 1 km)."
+  },
+  {
+  "id": "vienna_schmetterlingspark",
+  "name": "Schmetterlingspark",
+  "city": "Vienna",
+  "area": "vienna",
+  "latitude": 48.2487371089695,
+  "longitude": 16.37817460189167,
+  "official": true,
+  "fenced": true,
+  "water": false,
+  "size": "372m²",
+  "surface": "Mixed",
+  "lighting": false,
+  "poopBags": true,
+  "parking": "Nearby parking",
+  "imageUrl": [
+    "https://plus.unsplash.com/premium_photo-1700403545715-858d198bd45b?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1718382488502-88c56c7b38ae?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1665454957722-4e295940aec9?q=80&w=2351&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1599814148236-c66557e25431?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1730264582481-05ff8cc73bc1?q=80&w=2374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "description": "The Schmetterlingspark dog park is located in the 20th district, Brigittenau. It is free to enter and open 24/7. The park is fenced.Restrooms and trash cans are located directly adjacent to the park (within 100 m). Cafés, drinking fountains, and public transportation are within easy reach (within 1 km)."
+},
+  {
+  "id": "vienna_fortuna_park",
+  "name": "Fortuna Park",
+  "city": "Vienna",
+  "area": "vienna",
+  "latitude": 48.172094704270826,
+  "longitude": 16.359143313410353,
+  "official": true,
+  "fenced": true,
+  "water": false,
+  "size": "400m²",
+  "surface": "Mixed",
+  "lighting": false,
+  "poopBags": true,
+  "parking": "Nearby parking",
+  "imageUrl": [
+    "https://plus.unsplash.com/premium_photo-1700403545715-858d198bd45b?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1718382488502-88c56c7b38ae?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1665454957722-4e295940aec9?q=80&w=2351&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1599814148236-c66557e25431?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1730264582481-05ff8cc73bc1?q=80&w=2374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "description": "The Fortunapark dog park is located in the 10th district, Favoriten. It is free to enter and open 24/7. The park is fenced.Drinking fountains and trash cans are located directly adjacent to the park (within 100 m). Cafés and public transportation are within easy reach (within 1 km)."
+},
    {
     "id": "graz_volksgarten",
     "name": "Volksgarten",
@@ -767,5 +839,6 @@
       "https://images.unsplash.com/photo-1730264582481-05ff8cc73bc1?q=80&w=2374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     ],
     "description": "The Hilmteich dog zone in Graz is a fenced off-leash area located near the popular Hilmteich recreation area and surrounding forest paths. It offers a peaceful natural setting with plenty of shade and open space for dogs to exercise and socialize. The area is popular for longer walks and outdoor activities with dogs."
-  }  
+  },
+  
 ]
