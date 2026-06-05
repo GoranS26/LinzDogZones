@@ -1,7 +1,7 @@
 [
   {
     "id": "linz_winterhafen",
-    "name": "Hundezone Winterhafen",
+    "name": "Winterhafen",
     "city": "Linz",
     "area": "linz",
     "latitude": 48.32029036651666,
@@ -25,7 +25,7 @@
   },
   {
     "id": "linz_donaulande",
-    "name": "Hundezone Urfhar-Lände",
+    "name": "Urfhar-Lände",
     "city": "Linz",
     "area": "linz",
     "latitude": 48.31639577939159,
@@ -49,7 +49,7 @@
   },
   {
     "id": "linz_freinberg",
-    "name": "Hundezone Freinberg",
+    "name": "Freinberg",
     "city": "Linz",
     "area": "linz",
     "latitude": 43.30158,
@@ -73,7 +73,7 @@
   },
   {
     "id": "linz_ansfelden",
-    "name": "Hundezone Ansfelden",
+    "name": "Ansfelden",
     "city": "Linz",
     "area": "linz",
     "latitude": 48.20639824445955,
@@ -97,7 +97,7 @@
   },
   {
     "id": "leonding_leonding",
-    "name": "Hundewiese Leonding",
+    "name": "Leonding",
     "city": "Leonding",
     "area": "linz",
     "latitude": 48.27005,
@@ -121,7 +121,7 @@
   },
   {
     "id": "leonding_wegscheid",
-    "name": "Hundezone Wegscheid",
+    "name": "Wegscheid",
     "city": "Leonding",
     "area": "linz",
     "latitude": 48.24694821260099,
@@ -145,7 +145,7 @@
   },
   {
     "id": "linz_ebelsberg",
-    "name": "Hundewiese Ebelsberg",
+    "name": "Ebelsberg",
     "city": "Linz",
     "area": "linz",
     "latitude": 48.24878000038723,
@@ -169,7 +169,7 @@
   },
   {
     "id": "traun_oedtsee",
-    "name": "Hundezone Oedtsee",
+    "name": "Oedtsee",
     "city": "Traun",
     "area": "linz",
     "latitude": 48.21147500428702,
@@ -193,7 +193,7 @@
   },
   {
     "id": "puchenau_donaudamm",
-    "name": "Donaudamm Puchenau (Auslaufwiese)",
+    "name": "Donaudamm Puchenau",
     "city": "Puchenau",
     "area": "linz",
     "latitude": 48.3138,
@@ -217,7 +217,7 @@
   },
   {
     "id": "linz_franckviertel",
-    "name": "Hundewiese Franckviertel",
+    "name": "Franckviertel",
     "city": "Linz",
     "area": "linz",
     "latitude": 48.29736844458946,
@@ -241,7 +241,7 @@
   },
   {
     "id": "linz_kleinmuenchen",
-    "name": "Hundewiese Kleinmünchen",
+    "name": "Kleinmünchen",
     "city": "Linz",
     "area": "linz",
     "latitude": 48.26259615735498,
@@ -265,7 +265,7 @@
   },
   {
     "id": "linz_donaupark",
-    "name": "Hundezone Heilhamer Park",
+    "name": "Heilhamer Park",
     "city": "Linz",
     "area": "linz",
     "latitude": 48.32689869360915,
@@ -289,7 +289,7 @@
   },
   {
     "id": "linz_panuliwiese",
-    "name": "Hundewiese Panuliwiese",
+    "name": "Panuliwiese",
     "city": "Linz",
     "area": "linz",
     "latitude": 48.28363191202006,
@@ -313,7 +313,7 @@
   },
   {
     "id": "linz_urfahr",
-    "name": "Hundezone Urfahr/Danube",
+    "name": "Urfahr/Danube",
     "city": "Linz",
     "area": "linz",
     "latitude": 48.32455558054567,
@@ -337,7 +337,7 @@
   },
   {
     "id": "linz_blumauerstraße",
-    "name": "Hundezone Blumauerstraße",
+    "name": "Blumauerstraße",
     "city": "Linz",
     "area": "linz",
     "latitude": 48.29540139039055,
@@ -361,7 +361,7 @@
   },
   {
     "id": "linz_hummelhofwald",
-    "name": "Hundezone Hummelhofwald",
+    "name": "Hummelhofwald",
     "city": "Linz",
     "area": "linz",
     "latitude": 48.276520915913466,
@@ -385,7 +385,7 @@
   },
   {
     "id": "linz_muldenstrasse",
-    "name": "Hundezone Muldenstrasse",
+    "name": "Muldenstrasse",
     "city": "Linz",
     "area": "linz",
     "latitude": 48.26782089140119,
@@ -409,7 +409,7 @@
   },
   {
     "id": "linz_spallerhof",
-    "name": "Hundezone Spallerhof",
+    "name": "Spallerhof",
     "city": "Linz",
     "area": "linz",
     "latitude": 48.26883535817382,
@@ -434,7 +434,7 @@
 
   {
     "id": "vienna_augarten",
-    "name": "Hundezone Augarten",
+    "name": "Augarten",
     "city": "Vienna",
     "area": "vienna",
     "latitude": 48.231352107711224, 
@@ -458,7 +458,7 @@
   },
   {
     "id": "vienna_franzjosefskai",
-    "name": "Hundezone Franz-Josefs-Kai",
+    "name": "Franz-Josefs-Kai",
     "city": "Vienna",
     "area": "vienna",
     "latitude": 48.21584827025453,   
@@ -482,7 +482,7 @@
   },
   {
     "id": "vienna_heldenplatz",
-    "name": "Hundezone Heldenplatz",
+    "name": "Heldenplatz",
     "city": "Vienna",
     "area": "vienna",
     "latitude": 48.20811346489323,   
@@ -506,7 +506,7 @@
   },
   {
     "id": "vienna_prater",
-    "name": "Hundezone Prater",
+    "name": "Prater",
     "city": "Vienna",
     "area": "vienna",
     "latitude": 48.203253984714856,   
@@ -530,7 +530,7 @@
   },
    {
     "id": "graz_volksgarten",
-    "name": "Hundezone Volksgarten",
+    "name": "Volksgarten",
     "city": "Graz",
     "area": "graz",
     "latitude": 47.07635691746717,
@@ -554,7 +554,7 @@
   },
   {
     "id": "graz_eggenberg",
-    "name": "Hundezone Eggenberg",
+    "name": "Eggenberg",
     "city": "Graz",
     "area": "graz",
     "latitude": 47.07272011612866,  
@@ -578,7 +578,7 @@
   },
   {
     "id": "graz_rosenhain",
-    "name": "Hundezone Rosenhain",
+    "name": "Rosenhain",
     "city": "Graz",
     "area": "graz",
     "latitude": 47.084324493855,   
@@ -602,7 +602,7 @@
   },
   {
     "id": "graz_reininghaus",
-    "name": "Hundezone Reininghaus",
+    "name": "Reininghaus",
     "city": "Graz",
     "area": "graz",
     "latitude": 47.05891284597871,   
@@ -626,7 +626,7 @@
   },
   {
     "id": "graz_hilmteich",
-    "name": "Hundezone Hilmteich",
+    "name": "Hilmteich",
     "city": "Graz",
     "area": "graz",
     "latitude": 47.083842789019585,   
