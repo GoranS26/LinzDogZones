@@ -840,5 +840,124 @@
     ],
     "description": "The Hilmteich dog zone in Graz is a fenced off-leash area located near the popular Hilmteich recreation area and surrounding forest paths. It offers a peaceful natural setting with plenty of shade and open space for dogs to exercise and socialize. The area is popular for longer walks and outdoor activities with dogs."
   },
-  
+  {
+  "id": "graz_dechant_binder_anlage",
+  "name": "Dechant-Binder-Anlage",
+  "city": "Graz",
+  "area": "graz",
+  "latitude": 47.09372142059944,
+  "longitude": 15.399528425195678,
+  "official": true,
+  "fenced": true,
+  "water": true,
+  "size": "500m²",
+  "surface": "Grass",
+  "lighting": false,
+  "poopBags": true,
+  "parking": "Street parking",
+  "imageUrl": [
+    "https://plus.unsplash.com/premium_photo-1700403545715-858d198bd45b?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1718382488502-88c56c7b38ae?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1665454957722-4e295940aec9?q=80&w=2351&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1599814148236-c66557e25431?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1730264582481-05ff8cc73bc1?q=80&w=2374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "description": "Dechant-Binder-Anlage Dog Park offers a spacious green area where dogs can run, play, and socialize off-leash in a safe urban environment. The park provides plenty of open space for exercise and daily walks, making it a popular spot for local dog owners and their pets. Its peaceful setting and accessible location make it ideal for both active dogs and relaxed outdoor visits."
+},
+  {
+  "id": "graz_josef_krainer_park",
+  "name": "Josef-Krainer Park",
+  "city": "Graz",
+  "area": "graz",
+  "latitude": 47.032573935712826,
+  "longitude": 15.400630791003222,
+  "official": true,
+  "fenced": true,
+  "water": false,
+  "size": "3200m²",
+  "surface": "Grass",
+  "lighting": false,
+  "poopBags": false,
+  "parking": "Not available",
+  "imageUrl": [
+    "https://plus.unsplash.com/premium_photo-1700403545715-858d198bd45b?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1718382488502-88c56c7b38ae?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1665454957722-4e295940aec9?q=80&w=2351&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1599814148236-c66557e25431?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1730264582481-05ff8cc73bc1?q=80&w=2374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "description": "Josef-Krainer Park Dog Park offers a spacious off-leash area where dogs can run, play, and socialize in a safe and welcoming environment. The park features open green spaces, shaded areas, and amenities designed for both dogs and their owners. Its relaxed atmosphere makes it an excellent destination for exercise, training, and meeting other dogs."
+},
+  {
+  "id": "graz_auwiesen",
+  "name": "Auwiesen",
+  "city": "Graz",
+  "area": "graz",
+  "latitude": 47.01335366621865,
+  "longitude": 15.462809841891694,
+  "official": true,
+  "fenced": false,
+  "water": true,
+  "size": "1900m²",
+  "surface": "Grass",
+  "lighting": false,
+  "poopBags": false,
+  "parking": "Not available",
+  "imageUrl": [
+    "https://plus.unsplash.com/premium_photo-1700403545715-858d198bd45b?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1718382488502-88c56c7b38ae?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1665454957722-4e295940aec9?q=80&w=2351&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1599814148236-c66557e25431?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1730264582481-05ff8cc73bc1?q=80&w=2374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "description": "Auwiesen Dog Park is a spacious off-leash area located within a green recreational setting, offering dogs plenty of room to run, explore, and socialize. The open grassy terrain provides an enjoyable environment for exercise and play, while the surrounding greenery creates a relaxed atmosphere for both pets and owners. A great destination for daily walks, active dogs, and outdoor adventures."
+},
+  {
+  "id": "graz_lustbühel",
+  "name": "Lustbühel",
+  "city": "Graz",
+  "area": "graz",
+  "latitude": 47.04218577816027,
+  "longitude": 15.521502936199708,
+  "official": true,
+  "fenced": true,
+  "water": false,
+  "size": "1000m²",
+  "surface": "Wood/Grass",
+  "lighting": false,
+  "poopBags": false,
+  "parking": "Not available",
+  "imageUrl": [
+    "https://plus.unsplash.com/premium_photo-1700403545715-858d198bd45b?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1718382488502-88c56c7b38ae?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1665454957722-4e295940aec9?q=80&w=2351&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1599814148236-c66557e25431?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1730264582481-05ff8cc73bc1?q=80&w=2374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "description": "Lustbühel Dog Park is a fenced off-leash area offering approximately 1,000 m² of open space where dogs can run, play, and socialize freely. Located in a peaceful green setting, the park provides a safe environment for exercise, training, and everyday outdoor fun. Its enclosed layout makes it a popular destination for dog owners looking to let their pets explore without a leash."
+},
+  {
+  "id": "graz_orf_park",
+  "name": "ORF-Park",
+  "city": "Graz",
+  "area": "graz",
+  "latitude": 47.05310020213699,
+  "longitude": 15.464583044180062,
+  "official": true,
+  "fenced": false,
+  "water": false,
+  "size": "4050m²",
+  "surface": "Grass",
+  "lighting": false,
+  "poopBags": false,
+  "parking": "Not available",
+  "imageUrl": [
+    "https://plus.unsplash.com/premium_photo-1700403545715-858d198bd45b?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1718382488502-88c56c7b38ae?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1665454957722-4e295940aec9?q=80&w=2351&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1599814148236-c66557e25431?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1730264582481-05ff8cc73bc1?q=80&w=2374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "description": "ORF Park Dog Park offers an expansive 4,050 m² off-leash area where dogs can run, play, and explore freely. The large open space provides excellent opportunities for exercise, socialization, and outdoor activities, making it a favorite destination for both energetic dogs and relaxed daily walks. Its spacious layout ensures plenty of room for dogs of all sizes to enjoy themselves safely."
+  }
 ]
